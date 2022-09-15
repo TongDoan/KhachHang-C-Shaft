@@ -1,0 +1,12 @@
+D:\MenuObject\LTTQ\KhachHang\KhachHang\bin\Debug\KhachHang.exe.config
+D:\MenuObject\LTTQ\KhachHang\KhachHang\bin\Debug\KhachHang.exe
+D:\MenuObject\LTTQ\KhachHang\KhachHang\bin\Debug\KhachHang.pdb
+D:\MenuObject\LTTQ\KhachHang\KhachHang\obj\Debug\KhachHang.csproj.AssemblyReference.cache
+D:\MenuObject\LTTQ\KhachHang\KhachHang\obj\Debug\KhachHang.csproj.SuggestedBindingRedirects.cache
+D:\MenuObject\LTTQ\KhachHang\KhachHang\obj\Debug\KhachHang.Form1.resources
+D:\MenuObject\LTTQ\KhachHang\KhachHang\obj\Debug\KhachHang.Properties.Resources.resources
+D:\MenuObject\LTTQ\KhachHang\KhachHang\obj\Debug\KhachHang.csproj.GenerateResource.cache
+D:\MenuObject\LTTQ\KhachHang\KhachHang\obj\Debug\KhachHang.csproj.CoreCompileInputs.cache
+D:\MenuObject\LTTQ\KhachHang\KhachHang\obj\Debug\KhachHang.exe
+D:\MenuObject\LTTQ\KhachHang\KhachHang\obj\Debug\KhachHang.pdb
+D:\MenuObject\LTTQ\KhachHang\KhachHang\obj\Debug\KhachHang.Form2.resources
